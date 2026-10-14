@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "humanizer-oxza",
+  "description": "Rewrite or review AI-sounding Indonesian or English prose so it reads like the author without changing what it says, with an academic mode for journal articles, theses and grant proposals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Syaifuddin",
+    "url": "https://github.com/syaifuddin-saif"
+  },
+  "homepage": "https://github.com/syaifuddin-saif/humanizer-oxza",
+  "repository": "https://github.com/syaifuddin-saif/humanizer-oxza",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "humanize", "academic-writing", "indonesian", "bahasa-indonesia"],
+  "skills": ["./"]
+}

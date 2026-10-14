@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "humanizer-oxza",
+  "owner": {
+    "name": "Syaifuddin",
+    "url": "https://github.com/syaifuddin-saif"
+  },
+  "description": "Install humanizer-oxza as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "humanizer-oxza",
+      "source": "./",
+      "description": "Rewrite or review AI-sounding Indonesian or English prose without changing what it says, with an academic mode.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "humanize", "academic-writing", "indonesian"]
+    }
+  ]
+}
