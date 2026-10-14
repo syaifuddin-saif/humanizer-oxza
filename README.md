@@ -178,7 +178,7 @@ Please keep examples free of invented facts. An "after" text may only contain in
 
 ## Author
 
-**Syaifuddin**, Informatics Department, Universitas Muhammadiyah Malang, Indonesia. GitHub: [@syaifuddin-saif](https://github.com/syaifuddin-saif).
+**Syaifuddin**. GitHub: [@syaifuddin-saif](https://github.com/syaifuddin-saif).
 
 ## License
 
