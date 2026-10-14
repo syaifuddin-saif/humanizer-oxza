@@ -3,7 +3,7 @@ name: humanizer-oxza
 description: Rewrite or review AI-sounding Indonesian or English prose so it reads like the author without changing what it says, with an academic mode for journal articles, theses and grant proposals. Use for humanize, de-AI, "terdengar seperti AI", or editing drafts.
 metadata:
   version: "1.0.0"
-  author: Syaifuddin (oxza), disusun dengan Claude
+  author: Syaifuddin (oxza), 
   license: MIT (turunan karya ber-MIT, lihat Sumber)
 ---
 
